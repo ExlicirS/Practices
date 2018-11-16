@@ -6,4 +6,4 @@
 ###### **Calling a function**
 > A term programmers use to ask to run the function.
 
-_eg. int main() { FunctionExample() } //enter function, to call the function_
+_eg. int main() { FunctionExample() } //write the function, to call the function_
